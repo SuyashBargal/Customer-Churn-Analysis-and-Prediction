@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis-and-Prediction
 
-![Customer Churn Prediction Accuracy](download (1).png)
+![Customer Churn Prediction Accuracy](download(1).png)
 
 ## Overview
 This project focuses on predicting customer churn using machine learning techniques. The goal is to analyze customer behavior and determine the likelihood of a customer leaving a service or subscription. The insights derived from this model can help businesses implement retention strategies.
